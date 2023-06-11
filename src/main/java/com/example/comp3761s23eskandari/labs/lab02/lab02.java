@@ -1,4 +1,4 @@
-package com.example.comp3761s23eskandarilabs.labs.lab02;
+package com.example.comp3761s23eskandari.labs.lab02;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

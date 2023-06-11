@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.comp3761s23eskandarilabs/com.example.comp3761s23eskandarilabs.HelloApplication
+                                com.example.comp3761s23eskandarilabs/com.example.comp3761s23eskandari.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

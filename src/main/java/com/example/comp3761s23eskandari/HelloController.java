@@ -1,4 +1,4 @@
-package com.example.comp3761s23eskandarilabs;
+package com.example.comp3761s23eskandari;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

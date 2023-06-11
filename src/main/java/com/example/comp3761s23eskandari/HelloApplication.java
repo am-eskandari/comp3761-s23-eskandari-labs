@@ -1,4 +1,4 @@
-package com.example.comp3761s23eskandarilabs;
+package com.example.comp3761s23eskandari;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
